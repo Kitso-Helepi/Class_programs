@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Zoo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
